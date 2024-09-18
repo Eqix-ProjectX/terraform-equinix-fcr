@@ -1,0 +1,7 @@
+type                  = "XF_ROUTER"
+metro_code            = ""
+emails                = ""
+purchase_order_number = ""
+code                  = "STANDARD"
+project_id            = ""
+account_number        = ""
